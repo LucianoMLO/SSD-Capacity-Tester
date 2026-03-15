@@ -56,6 +56,7 @@ This script is **open-source and transparent**. You can read every line or ask a
 ### **📸 Program Interface**
 
 When running the script, you will see a progress bar and real-time status:
+https://github.com/LucianoMLO/SSD-Capacity-Tester/blob/main/Tela.png
 
 ### **🚀 How to use (Step by Step)**
 
