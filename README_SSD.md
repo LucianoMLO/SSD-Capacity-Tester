@@ -20,6 +20,18 @@ Ao rodar o script, você verá uma barra de progresso e o status em tempo real:
 
 https://github.com/LucianoMLO/SSD-Capacity-Tester/blob/main/Tela.png
 
+### **⏳ Tempo Estimado (SSD 1TB)**
+
+O teste envolve a escrita e a leitura completa do disco para garantir a integridade. O tempo depende da velocidade do seu SSD e da porta USB (se for externo):
+
+SSD SATA/NVMe Interno: Pode levar de 1 a 3 horas.
+
+SSD Externo (USB 3.0): Pode levar de 3 a 6 horas.
+
+Dispositivos falsos: O teste pode falhar rapidamente se a capacidade real for muito baixa.
+
+Nota: Para 1TB, o script gravará aproximadamente 60.000 a 65.000 blocos de 16MB.
+
 ### **🚀 Como usar (Passo a Passo)**
 
 #### **1\. Instalar o Python**
@@ -57,6 +69,18 @@ This script is **open-source and transparent**. You can read every line or ask a
 
 When running the script, you will see a progress bar and real-time status:
 https://github.com/LucianoMLO/SSD-Capacity-Tester/blob/main/Tela.png
+
+### **⏳ Estimated Time (1TB SSD)**
+
+The test involves a full write and read of the disk to ensure integrity. The duration depends on your SSD speed and the USB port (if external):
+
+Internal SATA/NVMe SSD: May take 1 to 3 hours.
+
+External SSD (USB 3.0): May take 3 to 6 hours.
+
+Fake Devices: The test may fail quickly if the real capacity is very low.
+
+Note: For 1TB, the script will write approximately 60,000 to 65,000 blocks of 16MB.
 
 ### **🚀 How to use (Step by Step)**
 
