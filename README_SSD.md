@@ -18,7 +18,7 @@ Este script é **código aberto e transparente**. Você pode ler cada linha e at
 
 Ao rodar o script, você verá uma barra de progresso e o status em tempo real:
 
-
+https://github.com/LucianoMLO/SSD-Capacity-Tester/blob/main/Tela.png
 
 ### **🚀 Como usar (Passo a Passo)**
 
